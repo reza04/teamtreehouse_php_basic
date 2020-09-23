@@ -49,7 +49,7 @@ $name ="Reza Aditya";
                     
                 </div>
 
-                <div class="d-flex position-absolute fixed-bottom bg-secondary border ">
+                <div class="d-flex position-absolute fixed-bottom bg-light ">
                     <p class="font-weight-normal mx-auto">&copy; <?php echo $name; echo " Last modified "
                     .date('d F Y H:i:s',getlastmod()); ?>
                     </p>
